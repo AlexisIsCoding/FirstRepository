@@ -1,0 +1,1 @@
+var h1Elmt = document.querySelector("h1");
